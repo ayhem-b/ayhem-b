@@ -11,7 +11,7 @@
 
 <img src="https://wakatime.com/badge/user/cf8da79b-a470-449f-8b0c-f235c18b2fd3.svg" >
 <p float="center">
-<img src="https://wakatime.com/share/@cf8da79b-a470-449f-8b0c-f235c18b2fd3/3548b45a-8fa9-4b7e-a297-95c45cae2e3c.svg" witdh="250" height="300" />
+<img src="https://wakatime.com/share/@cf8da79b-a470-449f-8b0c-f235c18b2fd3/a8f6d8f6-7585-46f8-abdf-ef882af10143.svg" witdh="250" height="300" />
 <img height="350" hspace="10"/>
 <img src="https://wakatime.com/share/@cf8da79b-a470-449f-8b0c-f235c18b2fd3/e5d007f8-acb4-4d59-a4f2-da56b2a5c4d7.svg"  witdh="250" height="300" />
 </p>
