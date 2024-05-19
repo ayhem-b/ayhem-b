@@ -8,6 +8,15 @@
 - 📫 How to reach me:belkhamsaayhem09@gmail.com
 <img src="https://wakatime.com/badge/user/cf8da79b-a470-449f-8b0c-f235c18b2fd3.svg" >
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 May 2024 - To: 17 May 2024
+
+Typst   4 mins          >>>>>>>>>>>>>>>>>>>------   76.29 %
+HTML    1 min           >>>>>>-------------------   23.33 %
+Julia   0 secs          -------------------------   00.38 %
+```
+
 <!--END_SECTION:waka-->
 
 
