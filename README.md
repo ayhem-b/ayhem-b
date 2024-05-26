@@ -10,11 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-Typst   4 mins          >>>>>>>>>>>>>>>>>>>------   76.29 %
-HTML    1 min           >>>>>>-------------------   23.33 %
-Julia   0 secs          -------------------------   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
