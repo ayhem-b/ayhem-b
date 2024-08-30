@@ -10,13 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Typst        2 hrs 25 mins   >>>>>>>>>>>>>------------   53.97 %
-Markdown     1 hr 19 mins    >>>>>>>------------------   29.63 %
-Python       24 mins         >>-----------------------   08.96 %
-Other        16 mins         >>-----------------------   06.31 %
-JSON         2 mins          -------------------------   00.96 %
+Markdown   1 hr 18 mins    >>>>>>>>>>>>>>>>>--------   66.09 %
+Python     24 mins         >>>>>--------------------   20.25 %
+Other      16 mins         >>>----------------------   13.66 %
 ```
 
 <!--END_SECTION:waka-->
