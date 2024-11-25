@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
-Typst      4 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.12 %
-Markdown   2 mins          -------------------------   00.88 %
-Python     1 min           -------------------------   00.64 %
-Other      0 secs          -------------------------   00.27 %
-CSV        0 secs          -------------------------   00.08 %
+Typst      3 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.92 %
+Markdown   2 mins          -------------------------   00.98 %
+Python     1 min           -------------------------   00.70 %
+Other      0 secs          -------------------------   00.30 %
+CSV        0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
