@@ -25,10 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 27 November 2024
+From: 22 November 2024 - To: 29 November 2024
 
-Typst   22 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.94 %
-Julia   0 secs          -------------------------   00.06 %
+Typst   24 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
