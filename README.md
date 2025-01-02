@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-HTML         4 hrs 23 mins   >>>>>>>>>>---------------   41.18 %
-JavaScript   2 hrs 52 mins   >>>>>>>------------------   26.89 %
-CSS          1 hr 46 mins    >>>>---------------------   16.58 %
-SQL          1 hr 21 mins    >>>----------------------   12.77 %
-Markdown     9 mins          -------------------------   01.54 %
+HTML         5 hrs 56 mins   >>>>>>>>>>>--------------   45.33 %
+JavaScript   3 hrs 4 mins    >>>>>>-------------------   23.39 %
+CSS          2 hrs 21 mins   >>>>---------------------   17.93 %
+SQL          1 hr 25 mins    >>>----------------------   10.85 %
+Markdown     12 mins         -------------------------   01.59 %
 ```
 
 <!--END_SECTION:waka-->
