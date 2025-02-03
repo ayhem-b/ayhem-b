@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-HTML         8 hrs 39 mins   >>>>>>>>>>>>>>>>>>-------   71.75 %
-CSS          2 hrs 6 mins    >>>>---------------------   17.43 %
-Python       54 mins         >>-----------------------   07.52 %
-Markdown     13 mins         -------------------------   01.93 %
-Other        5 mins          -------------------------   00.76 %
+HTML         8 hrs 47 mins   >>>>>>>>>>>>>>>----------   61.23 %
+CSS          2 hrs 8 mins    >>>>---------------------   14.95 %
+Typst        1 hr 59 mins    >>>----------------------   13.81 %
+Python       55 mins         >>-----------------------   06.44 %
+Markdown     13 mins         -------------------------   01.62 %
 ```
 
 <!--END_SECTION:waka-->
