@@ -25,9 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Python   52 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   2 hrs 1 min     >>>>>>>>>>>>>>-----------   56.35 %
+HTML     1 hr 28 mins    >>>>>>>>>>---------------   41.10 %
+CSS      3 mins          -------------------------   01.41 %
+Other    2 mins          -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
