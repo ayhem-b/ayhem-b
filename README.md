@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my graduation project**
 
-- 🌱 I’m currently learning **Python & julia for machine learning**
+- 🌱 I’m currently learning **Python & Django for webapp**
 
 - 💬 Ask me about **robotics**
 
