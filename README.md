@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 30 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
-HTML     3 hrs 7 mins    >>>>>>>>>>>>>>>----------   58.94 %
-Python   2 hrs 10 mins   >>>>>>>>>>---------------   40.96 %
-Other    0 secs          -------------------------   00.11 %
+JavaScript   3 mins          >>>>>>>>>>>>>>>>>>-------   72.88 %
+HTML         1 min           >>>>>>-------------------   22.31 %
+CSS          0 secs          >------------------------   04.81 %
 ```
 
 <!--END_SECTION:waka-->
