@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
-Typst        7 hrs 24 mins   >>>>>>>>>>>>>>>>---------   62.46 %
-Python       1 hr 57 mins    >>>>---------------------   16.52 %
-HTML         1 hr 19 mins    >>>----------------------   11.21 %
-Bash         1 hr 5 mins     >>-----------------------   09.25 %
-JavaScript   3 mins          -------------------------   00.50 %
+Typst        7 hrs 24 mins   >>>>>>>>>>>>>>-----------   56.14 %
+HTML         2 hrs 21 mins   >>>>---------------------   17.92 %
+Python       1 hr 57 mins    >>>>---------------------   14.85 %
+Bash         1 hr 5 mins     >>-----------------------   08.31 %
+JavaScript   21 mins         >------------------------   02.73 %
 ```
 
 <!--END_SECTION:waka-->
