@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
 HTML         1 hr 6 mins     >>>>>>>>>>>--------------   44.72 %
 Typst        35 mins         >>>>>>-------------------   23.57 %
