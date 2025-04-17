@@ -27,12 +27,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Typst        35 mins         >>>>>>>>>>>>>------------   50.72 %
-Python       28 mins         >>>>>>>>>>---------------   41.08 %
-HTML         4 mins          >>-----------------------   06.95 %
-JavaScript   0 secs          -------------------------   01.26 %
+Python       56 mins         >>>>>>>>>>>>>>-----------   57.99 %
+Typst        35 mins         >>>>>>>>>----------------   36.15 %
+HTML         4 mins          >------------------------   04.95 %
+JavaScript   0 secs          -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
