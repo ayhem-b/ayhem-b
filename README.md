@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-Python       10 hrs 3 mins   >>>>>>>>>>>>-------------   49.76 %
-HTML         9 hrs 56 mins   >>>>>>>>>>>>-------------   49.22 %
+Python       10 hrs 3 mins   >>>>>>>>>>>>-------------   49.58 %
+HTML         10 hrs          >>>>>>>>>>>>-------------   49.34 %
 JavaScript   6 mins          -------------------------   00.54 %
 Typst        5 mins          -------------------------   00.46 %
-Other        0 secs          -------------------------   00.02 %
+CSS          0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
