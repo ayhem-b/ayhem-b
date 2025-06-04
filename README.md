@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
 Typst    20 hrs 58 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.51 %
 Git      15 mins         -------------------------   01.16 %
