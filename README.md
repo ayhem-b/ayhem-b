@@ -27,10 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-HTML     1 hr 54 mins    >>>>>>>>>>>>>>>>>>>------   74.51 %
-Python   39 mins         >>>>>>-------------------   25.49 %
+Python   2 hrs 27 mins   >>>>>>>>>>>>>>-----------   56.41 %
+HTML     1 hr 54 mins    >>>>>>>>>>>--------------   43.59 %
 ```
 
 <!--END_SECTION:waka-->
