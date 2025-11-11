@@ -27,10 +27,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Python   55 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.74 %
-Other    7 mins          >>>----------------------   12.26 %
+Typst    1 hr 20 mins    >>>>>>>>>>>>>>-----------   57.69 %
+Python   55 mins         >>>>>>>>>>---------------   40.13 %
+Other    2 mins          -------------------------   01.84 %
+BibTeX   0 secs          -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
