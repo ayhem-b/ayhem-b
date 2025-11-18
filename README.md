@@ -27,11 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2025 - To: 15 November 2025
+From: 09 November 2025 - To: 16 November 2025
 
-Typst    1 hr 20 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.88 %
-BibTeX   0 secs          -------------------------   00.59 %
-Python   0 secs          -------------------------   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
