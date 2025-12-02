@@ -27,12 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
-HTML    29 mins         >>>>>>>>>>>>-------------   48.05 %
-CSS     25 mins         >>>>>>>>>>>--------------   42.32 %
-Other   5 mins          >>-----------------------   08.29 %
-JSON    0 secs          -------------------------   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
