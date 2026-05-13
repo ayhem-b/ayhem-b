@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ayhem Belkhamsa</h1>
-<h3 align="center">A passionate student from tunisia</h3>
+Hi 👋, I'm **Ayhem Belkhamsa**
+A passionate **Industrial Automation & Machine Vision Engineer** from Tunisia
+🔭 I’m currently working on **Robots & Specialized Machnes and  AI-driven Machine Vision systems**
+ 
+🌱 I’m currently learning ROS2 and Cmmunication Protocols.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayhem-b&label=Profile%20views&color=0e75b6&style=flat" alt="ayhem-b" /> </p>
+💬 Ask me about PLC Programming (Mitsubishi, Seimens), Industrial Robotics, and C# Scripting in VisionMaster
 
-- 🔭 I’m currently working on **my graduation project**
-
-- 🌱 I’m currently learning **Python & Django for webapp**
-
-- 💬 Ask me about **robotics**
-
-- 📫 How to reach me **belkhamsaayhem09@gmail.com**
-
+📫 How to reach me belkhamsaayhem09@gmail.com
+<palign="left"> <img src="https://komarev.com/ghpvc/?username=ayhem-b&label=Profile%20views&color=0e75b6&style=flat" alt="ayhem-b" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ayhem belkhamsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayhem belkhamsa" height="30" width="40" /></a>
