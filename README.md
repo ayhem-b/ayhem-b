@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=ayhem-b&label=Profile%20views&color=0e75b6&style=flat" alt="ayhem-b" /> </p>
 Hi 👋, I'm **Ayhem Belkhamsa**
 A passionate **Industrial Automation & Machine Vision Engineer** from Tunisia
 🔭 I’m currently working on **Robots & Specialized Machnes and  AI-driven Machine Vision systems**
@@ -7,7 +8,7 @@ A passionate **Industrial Automation & Machine Vision Engineer** from Tunisia
 💬 Ask me about PLC Programming (Mitsubishi, Seimens), Industrial Robotics, and C# Scripting in VisionMaster
 
 📫 How to reach me belkhamsaayhem09@gmail.com
-<palign="left"> <img src="https://komarev.com/ghpvc/?username=ayhem-b&label=Profile%20views&color=0e75b6&style=flat" alt="ayhem-b" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ayhem belkhamsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayhem belkhamsa" height="30" width="40" /></a>
