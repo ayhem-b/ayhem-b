@@ -25,7 +25,7 @@ A passionate **Industrial Automation & Machine Vision Engineer** from Tunisia
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
 No activity tracked
 ```
