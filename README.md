@@ -4,6 +4,11 @@
 <p align="center">
   <a href="https://ayhem-b.github.io/Ayhem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-ayhem--b.github.io-FF7A1A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:belkhamsaayhem09@gmail.com"><img src="https://img.shields.io/badge/Email-belkhamsaayhem09%40gmail.com-4FD1E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+<p align="center">
+  <a href="https://tn.linkedin.com/in/ayhem-belkhamsa-976b50333"><img src="https://img.shields.io/badge/LinkedIn-ayhem--belkhamsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/ayhem_belkhamsa/"><img src="https://img.shields.io/badge/Instagram-ayhem__belkhamsa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/ayhem.belkh/"><img src="https://img.shields.io/badge/Facebook-ayhem.belkh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <img src="https://komarev.com/ghpvc/?username=ayhem-b&label=Profile%20views&color=5C6A70&style=for-the-badge" alt="Profile views">
 </p>
 
